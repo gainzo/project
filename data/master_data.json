@@ -1,0 +1,223 @@
+[
+  {
+    "atccode":"6302001",
+    "drug":"ISOPRENALINE",
+    "info":[
+      {
+        "journal":"Journal of photochemistry and photobiology. B, Biology",
+        "content":[
+          {
+            "id":9,
+            "title":"Gold nanoparticles synthesized from Euphorbia fischeriana root by green route method alleviates the isoprenaline hydrochloride induced myocardial infarction in rats.",
+            "date":"2020-01-01",
+            "type":"pubmed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "atccode":"A01AD",
+    "drug":"EPINEPHRINE",
+    "info":[
+      {
+        "journal":"Journal of emergency nursing\\xc3\\x28",
+        "content":[
+          {
+            "id":"NCT04188184",
+            "title":"Tranexamic Acid Versus Epinephrine During Exploratory Tympanotomy",
+            "date":"2020-04-27",
+            "type":"clinical_trials"
+          }
+        ]
+      },
+      {
+        "journal":"The journal of allergy and clinical immunology. In practice",
+        "content":[
+          {
+            "id":7,
+            "title":"The High Cost of Epinephrine Autoinjectors and Possible Alternatives.",
+            "date":"2020-01-02",
+            "type":"pubmed"
+          },
+          {
+            "id":8,
+            "title":"Time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained ROSC after traumatic out-of-hospital cardiac arrest.",
+            "date":"2020-01-03",
+            "type":"pubmed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "atccode":"A03BA",
+    "drug":"ATROPINE",
+    "info":[
+      {
+        "journal":null,
+        "content":[
+          {
+            "id":null,
+            "title":null,
+            "date":null,
+            "type":null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "atccode":"A04AD",
+    "drug":"DIPHENHYDRAMINE",
+    "info":[
+      {
+        "journal":"Journal of emergency nursing",
+        "content":[
+          {
+            "id":1,
+            "title":"A 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+            "date":"2019-01-01",
+            "type":"pubmed"
+          },
+          {
+            "id":2,
+            "title":"An evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+            "date":"2019-01-01",
+            "type":"pubmed"
+          },
+          {
+            "id":"NCT01967433",
+            "title":"Use of Diphenhydramine as an Adjunctive Sedative for Colonoscopy in Patients Chronically on Opioids",
+            "date":"2020-01-01",
+            "type":"clinical_trials"
+          },
+          {
+            "id":"NCT04189588",
+            "title":"Phase 2 Study IV QUZYTTIR\u2122 (Cetirizine Hydrochloride Injection) vs V Diphenhydramine",
+            "date":"2020-01-01",
+            "type":"clinical_trials"
+          },
+          {
+            "id":"NCT04237091",
+            "title":"Feasibility of a Randomized Controlled Clinical Trial Comparing the Use of Cetirizine to Replace Diphenhydramine in the Prevention of Reactions Related to Paclitaxel",
+            "date":"2020-01-01",
+            "type":"clinical_trials"
+          }
+        ]
+      },
+      {
+        "journal":"The Journal of pediatrics",
+        "content":[
+          {
+            "id":3,
+            "title":"Diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+            "date":"2019-02-01",
+            "type":"pubmed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "atccode":"R01AD",
+    "drug":"BETAMETHASONE",
+    "info":[
+      {
+        "journal":"H\u00f4pitaux Universitaires de Gen\u00e8ve",
+        "content":[
+          {
+            "id":"NCT04153396",
+            "title":"Preemptive Infiltration With Betamethasone and Ropivacaine for Postoperative Pain in Laminoplasty or \\xc3\\xb1 Laminectomy",
+            "date":"2020-01-01",
+            "type":"clinical_trials"
+          }
+        ]
+      },
+      {
+        "journal":"Journal of back and musculoskeletal rehabilitation",
+        "content":[
+          {
+            "id":"11",
+            "title":"Effects of Topical Application of Betamethasone on Imiquimod-induced Psoriasis-like Skin Inflammation in Mice.",
+            "date":"2020-01-01",
+            "type":"pubmed"
+          }
+        ]
+      },
+      {
+        "journal":"The journal of maternal-fetal & neonatal medicine",
+        "content":[
+          {
+            "id":10,
+            "title":"Clinical implications of umbilical artery Doppler changes after betamethasone administration",
+            "date":"2020-01-01",
+            "type":"pubmed"
+          },
+          {
+            "id":"",
+            "title":"Comparison of pressure BETAMETHASONE release, phonophoresis and dry needling in treatment of latent myofascial trigger point of upper trapezius ATROPINE muscle.",
+            "date":"2020-01-03",
+            "type":"pubmed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "atccode":"S03AA",
+    "drug":"TETRACYCLINE",
+    "info":[
+      {
+        "journal":"American journal of veterinary research",
+        "content":[
+          {
+            "id":5,
+            "title":"Appositional Tetracycline bone formation rates in the Beagle.",
+            "date":"2020-02-01",
+            "type":"pubmed"
+          }
+        ]
+      },
+      {
+        "journal":"Journal of food protection",
+        "content":[
+          {
+            "id":4,
+            "title":"Tetracycline Resistance Patterns of Lactobacillus buchneri Group Strains.",
+            "date":"2020-01-01",
+            "type":"pubmed"
+          }
+        ]
+      },
+      {
+        "journal":"Psychopharmacology",
+        "content":[
+          {
+            "id":6,
+            "title":"Rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+            "date":"2020-01-01",
+            "type":"pubmed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "atccode":"V03AB",
+    "drug":"ETHANOL",
+    "info":[
+      {
+        "journal":null,
+        "content":[
+          {
+            "id":null,
+            "title":null,
+            "date":null,
+            "type":null
+          }
+        ]
+      }
+    ]
+  }
+]

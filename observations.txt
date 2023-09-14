@@ -1,0 +1,7 @@
+Le choix a été fait de nester les publications dans un champ journal, et ce afin d'éviter les redondances d'information.
+Cela demande quelques opérations en plus afin de manipuler le json final et répondre à la question ad-hoc.
+
+Afin de faire évoluer ce code pour qu'il puisse traiter une quantité de données plus importante, plusieurs pistes :
+    - Abandonner pandas, gourmand en ram, et privilégier des solutions telles que Spark ou Dataflow
+    - Penser à une actualisation incrémentale dans le cas ou la donnée est alimentée de cette façon
+    - Penser à stocker la donnée dans le cloud et l'utiliser avec des outils adaptés tels que BigQuery ou BigTable
